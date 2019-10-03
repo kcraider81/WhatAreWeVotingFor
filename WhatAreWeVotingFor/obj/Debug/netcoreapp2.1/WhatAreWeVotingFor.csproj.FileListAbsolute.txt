@@ -1,0 +1,14 @@
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\bin\Debug\netcoreapp2.1\WhatAreWeVotingFor.deps.json
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\bin\Debug\netcoreapp2.1\WhatAreWeVotingFor.runtimeconfig.json
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\bin\Debug\netcoreapp2.1\WhatAreWeVotingFor.runtimeconfig.dev.json
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\bin\Debug\netcoreapp2.1\WhatAreWeVotingFor.dll
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\bin\Debug\netcoreapp2.1\WhatAreWeVotingFor.pdb
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.csprojAssemblyReference.cache
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.csproj.CoreCompileInputs.cache
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.RazorAssemblyInfo.cache
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.RazorAssemblyInfo.cs
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.AssemblyInfoInputs.cache
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.AssemblyInfo.cs
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.RazorTargetAssemblyInfo.cache
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.dll
+C:\Users\danny.figura\source\repos\WhatAreWeVotingFor\WhatAreWeVotingFor\obj\Debug\netcoreapp2.1\WhatAreWeVotingFor.pdb
